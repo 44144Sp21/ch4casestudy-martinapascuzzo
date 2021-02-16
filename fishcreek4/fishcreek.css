@@ -39,7 +39,8 @@ footer { font-size: .70em;
          background-color: #AEC3E3;
 }	
 
-#wrapper { min-width:700px;
+#wrapper { width: 80%;
+           min-width:700px;
            margin-right: auto;
 		   margin-left: auto;
 		   background-color: #F0F0F0;
