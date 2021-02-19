@@ -7,7 +7,8 @@ header { background-color: #003366;
 	   font-family: Georgia, "Times New Roman", serif;
         background-image: url(fishcreeklogo.gif);
         background-repeat: no-repeat;
-        text-align: center;
+       /* text-align: center; */
+	background-position: center;
 }
 h1 { line-height: 250%; 
     text-indent: 1em;
